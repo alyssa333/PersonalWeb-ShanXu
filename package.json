@@ -2,9 +2,9 @@
   "name": "personal-web",
 
   "scripts": {
-    "start": "http server"
+    "start": "http-server"
   },
   "dependencies": {
-    "http server": "*"
+    "http-server": "*"
   }
 }
